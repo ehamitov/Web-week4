@@ -59,3 +59,7 @@ ul li:hover {
     background-color: #f44336;
     color: black;
 }
+input[type="checkbox"] {
+    align-items: flex-start;
+    cursor: pointer;
+}
